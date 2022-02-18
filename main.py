@@ -1,6 +1,6 @@
 from PIL import Image
 import streamlit as st
-import qrcode
+# import qrcode
 import numpy as np
 st.title('QRコード自動生成アプリ')
 
